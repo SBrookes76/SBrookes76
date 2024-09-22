@@ -49,9 +49,20 @@
 ![skill:composer](https://go-skill-icons.vercel.app/api/icons?i=composer&theme=light&titles=true "composer")
 ![skill:sourcetree](https://go-skill-icons.vercel.app/api/icons?i=sourcetree&theme=light&titles=true "sourcetree")
 
-<!--
+---
 
-to learn: docker,golang,bash,zig,fastapi,podman,astro,gleam,
+## ⚒️ Interested-Curious ⚒️
+
+![skill:docker](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light&titles=true "docker")
+![skill:golang](https://go-skill-icons.vercel.app/api/icons?i=golang&theme=light&titles=true "golang")
+![skill:bash](https://go-skill-icons.vercel.app/api/icons?i=bash&theme=light&titles=true "bash")
+![skill:zig](https://go-skill-icons.vercel.app/api/icons?i=zig&theme=light&titles=true "zig")
+![skill:fastapi](https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=light&titles=true "fastapi")
+![skill:podman](https://go-skill-icons.vercel.app/api/icons?i=podman&theme=light&titles=true "podman")
+![skill:astro](https://go-skill-icons.vercel.app/api/icons?i=astro&theme=light&titles=true "astro")
+![skill:gleam](https://go-skill-icons.vercel.app/api/icons?i=gleam&theme=light&titles=true "gleam")
+
+<!--
 
 **SBrookes76/SBrookes76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
