@@ -45,6 +45,9 @@
 ![skill:markdown](https://go-skill-icons.vercel.app/api/icons?i=markdown&theme=light&titles=true "markdown")
 ![skill:composer](https://go-skill-icons.vercel.app/api/icons?i=composer&theme=light&titles=true "composer")
 ![skill:sourcetree](https://go-skill-icons.vercel.app/api/icons?i=sourcetree&theme=light&titles=true "sourcetree")
+![skill:npm](https://go-skill-icons.vercel.app/api/icons?i=npm&theme=light&titles=true "npm")
+![skill:svg](https://go-skill-icons.vercel.app/api/icons?i=svg&theme=light&titles=true "svg")
+![skill:yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&theme=light&titles=true "yarn")
 
 ---
 
@@ -58,6 +61,7 @@
 ![skill:podman](https://go-skill-icons.vercel.app/api/icons?i=podman&theme=light&titles=true "podman")
 ![skill:astro](https://go-skill-icons.vercel.app/api/icons?i=astro&theme=light&titles=true "astro")
 ![skill:gleam](https://go-skill-icons.vercel.app/api/icons?i=gleam&theme=light&titles=true "gleam")
+![skill:bun](https://go-skill-icons.vercel.app/api/icons?i=bun&theme=light&titles=true "bun")
 
 <!--
 
