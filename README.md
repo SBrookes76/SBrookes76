@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm a passionate software developer from the UK
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sbrookes76.sbrookes76" />
-
-### A passionate software developer from the UK
 
 ---
  
@@ -20,7 +18,6 @@
 ![skill:javascript](https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=light&titles=true "javascript")
 ![skill:laravel](https://go-skill-icons.vercel.app/api/icons?i=laravel&theme=light&titles=true "laravel")
 ![skill:gulp](https://go-skill-icons.vercel.app/api/icons?i=gulp&theme=light&titles=true "gulp")
-![skill:mssql](https://go-skill-icons.vercel.app/api/icons?i=mssql&theme=light&titles=true "mssql")
 ![skill:jenkins](https://go-skill-icons.vercel.app/api/icons?i=jenkins&theme=light&titles=true "jenkins")
 ![skill:nginx](https://go-skill-icons.vercel.app/api/icons?i=nginx&theme=light&titles=true "nginx")
 ![skill:powershell](https://go-skill-icons.vercel.app/api/icons?i=powershell&theme=light&titles=true "powershell")
