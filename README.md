@@ -11,21 +11,17 @@
 <br/>
 
 ![skill:git](https://go-skill-icons.vercel.app/api/icons?i=git&theme=light&titles=true)
-![skill:git](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light&titles=true)
+![skill:github](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light&titles=true)
+![skill:bitbucket](https://go-skill-icons.vercel.app/api/icons?i=bitbucket&theme=light&titles=true)
 
+
+<!--
 <div align="center">
-
-        <img src="https://skillicons.dev/icons?i=git" />
-
-    <img style="display:inline;" src="https://skillicons.dev/icons?i=css" />
     <img style="display:inline;" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap (v2 - v5)" />
-    <img style="display:inline;" src="https://skillicons.dev/icons?i=html" />
-    <img style="display:inline;" src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github,bitbucket,jira" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,jira" />
     <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,laravel,mssql,gulp" /><br>
 </div>
 
-<!--
 **SBrookes76/SBrookes76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
