@@ -2,17 +2,15 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sbrookes76.sbrookes76" />
 
-<h3 align="center">A passionate software developer from the UK</h3>
+### A passionate software developer from the UK
 
-<br/>
-<hr/>
+---
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+## ⚒️ Languages-Frameworks-Tools ⚒️
 
-![skill:git](https://go-skill-icons.vercel.app/api/icons?i=git&theme=light&titles=true)
-![skill:github](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light&titles=true)
-![skill:bitbucket](https://go-skill-icons.vercel.app/api/icons?i=bitbucket&theme=light&titles=true)
+![skill:git](https://go-skill-icons.vercel.app/api/icons?i=git&theme=light&titles=true "git")
+![skill:github](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light&titles=true "github")
+![skill:bitbucket](https://go-skill-icons.vercel.app/api/icons?i=bitbucket&theme=light&titles=true "bitbucket")
 
 
 <!--
