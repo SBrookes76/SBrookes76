@@ -22,6 +22,11 @@
 ![skill:gulp](https://go-skill-icons.vercel.app/api/icons?i=gulp&theme=light&titles=true "gulp")
 ![skill:mssql](https://go-skill-icons.vercel.app/api/icons?i=mssql&theme=light&titles=true "mssql")
 ![skill:jenkins](https://go-skill-icons.vercel.app/api/icons?i=jenkins&theme=light&titles=true "jenkins")
+![skill:nginx](https://go-skill-icons.vercel.app/api/icons?i=nginx&theme=light&titles=true "nginx")
+![skill:powershell](https://go-skill-icons.vercel.app/api/icons?i=powershell&theme=light&titles=true "powershell")
+![skill:postman](https://go-skill-icons.vercel.app/api/icons?i=postman&theme=light&titles=true "postman")
+![skill:picocss](https://go-skill-icons.vercel.app/api/icons?i=picocss&theme=light&titles=true "picocss")
+
 
 <!--
 
