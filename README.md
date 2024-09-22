@@ -26,13 +26,30 @@
 ![skill:powershell](https://go-skill-icons.vercel.app/api/icons?i=powershell&theme=light&titles=true "powershell")
 ![skill:postman](https://go-skill-icons.vercel.app/api/icons?i=postman&theme=light&titles=true "postman")
 ![skill:picocss](https://go-skill-icons.vercel.app/api/icons?i=picocss&theme=light&titles=true "picocss")
-debian,mjml,htmx,delphi,nunjucks,animate,api,axios,jquery,sass,json,expo,expressjs,hyperscript,sqlserver,chartjs,chatgpt,svn,
-gitkraken,sourcetree,composer,markdown,
 
-to learn:
-docker,golang,bash,zig,fastapi,podman,astro,gleam,
+![skill:debian](https://go-skill-icons.vercel.app/api/icons?i=debian&theme=light&titles=true "debian")
+![skill:mjml](https://go-skill-icons.vercel.app/api/icons?i=mjml&theme=light&titles=true "mjml")
+![skill:htmx](https://go-skill-icons.vercel.app/api/icons?i=htmx&theme=light&titles=true "htmx")
+![skill:delphi](https://go-skill-icons.vercel.app/api/icons?i=delphi&theme=light&titles=true "delphi")
+![skill:nunjucks](https://go-skill-icons.vercel.app/api/icons?i=nunjucks&theme=light&titles=true "nunjucks")
+![skill:animate](https://go-skill-icons.vercel.app/api/icons?i=animate&theme=light&titles=true "animate")
+![skill:api](https://go-skill-icons.vercel.app/api/icons?i=api&theme=light&titles=true "api")
+![skill:axios](https://go-skill-icons.vercel.app/api/icons?i=axios&theme=light&titles=true "axios")
+![skill:jquery](https://go-skill-icons.vercel.app/api/icons?i=jquery&theme=light&titles=true "jquery")
+![skill:sass](https://go-skill-icons.vercel.app/api/icons?i=sass&theme=light&titles=true "sass")
+![skill:json](https://go-skill-icons.vercel.app/api/icons?i=json&theme=light&titles=true "json")
+![skill:expo](https://go-skill-icons.vercel.app/api/icons?i=expo&theme=light&titles=true "expo")
+![skill:expressjs](https://go-skill-icons.vercel.app/api/icons?i=expressjs&theme=light&titles=true "expressjs")
+![skill:hyperscript](https://go-skill-icons.vercel.app/api/icons?i=hyperscript&theme=light&titles=true "hyperscript")
+![skill:sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light&titles=true "sqlserver")
+![skill:chartjs](https://go-skill-icons.vercel.app/api/icons?i=chartjs&theme=light&titles=true "chartjs")
+![skill:svn](https://go-skill-icons.vercel.app/api/icons?i=svn&theme=light&titles=true "svn")
+![skill:hg](https://go-skill-icons.vercel.app/api/icons?i=hg&theme=light&titles=true "hg")
 
 <!--
+chatgpt,gitkraken,sourcetree,composer,markdown,
+
+to learn: docker,golang,bash,zig,fastapi,podman,astro,gleam,
 
 **SBrookes76/SBrookes76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
