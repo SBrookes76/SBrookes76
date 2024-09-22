@@ -5,11 +5,11 @@
 <h3 align="center">A passionate software developer from the UK</h3>
 
 <br/>
-
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
 
       <a href="https://skillicons.dev" title="git">
