@@ -26,7 +26,11 @@
 ![skill:powershell](https://go-skill-icons.vercel.app/api/icons?i=powershell&theme=light&titles=true "powershell")
 ![skill:postman](https://go-skill-icons.vercel.app/api/icons?i=postman&theme=light&titles=true "postman")
 ![skill:picocss](https://go-skill-icons.vercel.app/api/icons?i=picocss&theme=light&titles=true "picocss")
+debian,mjml,htmx,delphi,nunjucks,animate,api,axios,jquery,sass,json,expo,expressjs,hyperscript,sqlserver,chartjs,chatgpt,svn,
+gitkraken,sourcetree,composer,markdown,
 
+to learn:
+docker,golang,bash,zig,fastapi,podman,astro,gleam,
 
 <!--
 
