@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sbrookes76.sbrookes76" />
+
+<h3 align="center">A passionate software developer from the UK</h3>
+
+<br/>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,css,vscode,git,github,bitbucket,jira" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,laravel,mssql,gulp" /><br>
+</div>
+
+<br/>
+<hr/>
+
 <!--
 **SBrookes76/SBrookes76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
