@@ -11,7 +11,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,css,vscode,git,github,bitbucket,jira" />
+    <img style="display:inline;" src="https://skillicons.dev/icons?i=css" />
+    <img style="display:inline;" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap (v2 - v5)" />
+    <img style="display:inline;" src="https://skillicons.dev/icons?i=html" />
+    <img style="display:inline;" src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github,bitbucket,jira" />
     <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,laravel,mssql,gulp" /><br>
 </div>
 
