@@ -10,7 +10,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git&theme=light&titles=true)
+![skill:git](https://go-skill-icons.vercel.app/api/icons?i=git&theme=light&titles=true)
+![skill:git](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light&titles=true)
 
 <div align="center">
 
