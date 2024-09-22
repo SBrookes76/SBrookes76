@@ -7,18 +7,14 @@
 <br/>
 
  <hr/>
-
- [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,vscode&theme=light)](https://skillicons.dev)
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
 
-    <p align="center">
       <a href="https://skillicons.dev" title="git">
         <img src="https://skillicons.dev/icons?i=git" />
       </a>
-    </p>
 
     <img style="display:inline;" src="https://skillicons.dev/icons?i=css" />
     <img style="display:inline;" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap (v2 - v5)" />
@@ -27,9 +23,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github,bitbucket,jira" />
     <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,laravel,mssql,gulp" /><br>
 </div>
-
-<br/>
-<hr/>
 
 <!--
 **SBrookes76/SBrookes76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
