@@ -36,7 +36,7 @@
 ![skill:sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light&titles=true "sqlserver")
 ![skill:chartjs](https://go-skill-icons.vercel.app/api/icons?i=chartjs&theme=light&titles=true "chartjs")
 ![skill:svn](https://go-skill-icons.vercel.app/api/icons?i=svn&theme=light&titles=true "SVN - old-school version control")
-![skill:hg](https://go-skill-icons.vercel.app/api/icons?i=hg&theme=light&titles=true "Mercurial (hg) version control")
+![skill:hg](https://github.com/SBrookes76/SBrookes76/blob/main/mercurial.svg "Mercurial (hg) version control")
 ![skill:chatgpt](https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=light&titles=true "chatgpt")
 ![skill:gitkraken](https://go-skill-icons.vercel.app/api/icons?i=gitkraken&theme=light&titles=true "GitKraken - Git GUI")
 ![skill:markdown](https://go-skill-icons.vercel.app/api/icons?i=markdown&theme=light&titles=true "markdown")
