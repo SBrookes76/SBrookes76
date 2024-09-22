@@ -26,13 +26,11 @@
 ![skill:powershell](https://go-skill-icons.vercel.app/api/icons?i=powershell&theme=light&titles=true "powershell")
 ![skill:postman](https://go-skill-icons.vercel.app/api/icons?i=postman&theme=light&titles=true "postman")
 ![skill:picocss](https://go-skill-icons.vercel.app/api/icons?i=picocss&theme=light&titles=true "picocss")
-
 ![skill:debian](https://go-skill-icons.vercel.app/api/icons?i=debian&theme=light&titles=true "debian")
 ![skill:mjml](https://go-skill-icons.vercel.app/api/icons?i=mjml&theme=light&titles=true "mjml")
 ![skill:htmx](https://go-skill-icons.vercel.app/api/icons?i=htmx&theme=light&titles=true "htmx")
 ![skill:delphi](https://go-skill-icons.vercel.app/api/icons?i=delphi&theme=light&titles=true "delphi")
 ![skill:nunjucks](https://go-skill-icons.vercel.app/api/icons?i=nunjucks&theme=light&titles=true "nunjucks")
-![skill:animate](https://go-skill-icons.vercel.app/api/icons?i=animate&theme=light&titles=true "animate")
 ![skill:api](https://go-skill-icons.vercel.app/api/icons?i=api&theme=light&titles=true "api")
 ![skill:axios](https://go-skill-icons.vercel.app/api/icons?i=axios&theme=light&titles=true "axios")
 ![skill:jquery](https://go-skill-icons.vercel.app/api/icons?i=jquery&theme=light&titles=true "jquery")
@@ -45,9 +43,13 @@
 ![skill:chartjs](https://go-skill-icons.vercel.app/api/icons?i=chartjs&theme=light&titles=true "chartjs")
 ![skill:svn](https://go-skill-icons.vercel.app/api/icons?i=svn&theme=light&titles=true "svn")
 ![skill:hg](https://go-skill-icons.vercel.app/api/icons?i=hg&theme=light&titles=true "hg")
+![skill:chatgpt](https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=light&titles=true "chatgpt")
+![skill:gitkraken](https://go-skill-icons.vercel.app/api/icons?i=gitkraken&theme=light&titles=true "gitkraken")
+![skill:markdown](https://go-skill-icons.vercel.app/api/icons?i=markdown&theme=light&titles=true "markdown")
+![skill:composer](https://go-skill-icons.vercel.app/api/icons?i=composer&theme=light&titles=true "composer")
+![skill:sourcetree](https://go-skill-icons.vercel.app/api/icons?i=sourcetree&theme=light&titles=true "sourcetree")
 
 <!--
-chatgpt,gitkraken,sourcetree,composer,markdown,
 
 to learn: docker,golang,bash,zig,fastapi,podman,astro,gleam,
 
