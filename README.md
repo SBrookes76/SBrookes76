@@ -12,9 +12,7 @@
 
 <div align="center">
 
-      <a href="https://skillicons.dev" title="git">
         <img src="https://skillicons.dev/icons?i=git" />
-      </a>
 
     <img style="display:inline;" src="https://skillicons.dev/icons?i=css" />
     <img style="display:inline;" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap (v2 - v5)" />
