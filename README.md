@@ -11,14 +11,19 @@
 ![skill:git](https://go-skill-icons.vercel.app/api/icons?i=git&theme=light&titles=true "git")
 ![skill:github](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light&titles=true "github")
 ![skill:bitbucket](https://go-skill-icons.vercel.app/api/icons?i=bitbucket&theme=light&titles=true "bitbucket")
-
+![skill:vscode](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=light&titles=true "vscode")
+![skill:html](https://go-skill-icons.vercel.app/api/icons?i=html&theme=light&titles=true "html")
+![skill:css](https://go-skill-icons.vercel.app/api/icons?i=css&theme=light&titles=true "css")
+![skill:jira](https://go-skill-icons.vercel.app/api/icons?i=jira&theme=light&titles=true "jira")
+![skill:nodejs](https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=light&titles=true "nodejs")
+![skill:php](https://go-skill-icons.vercel.app/api/icons?i=php&theme=light&titles=true "php")
+![skill:javascript](https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=light&titles=true "javascript")
+![skill:laravel](https://go-skill-icons.vercel.app/api/icons?i=laravel&theme=light&titles=true "laravel")
+![skill:gulp](https://go-skill-icons.vercel.app/api/icons?i=gulp&theme=light&titles=true "gulp")
+![skill:mssql](https://go-skill-icons.vercel.app/api/icons?i=mssql&theme=light&titles=true "mssql")
+![skill:jenkins](https://go-skill-icons.vercel.app/api/icons?i=jenkins&theme=light&titles=true "jenkins")
 
 <!--
-<div align="center">
-    <img style="display:inline;" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap (v2 - v5)" />
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,jira" />
-    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,laravel,mssql,gulp" /><br>
-</div>
 
 **SBrookes76/SBrookes76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
