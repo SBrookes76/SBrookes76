@@ -11,6 +11,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+    [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,vscode&theme=light)](https://skillicons.dev)
+
+    <p align="center">
+     <a href="https://skillicons.dev" title="git">
+       <img src="https://skillicons.dev/icons?i=git" />
+     </a>
+    </p>
+
     <img style="display:inline;" src="https://skillicons.dev/icons?i=css" />
     <img style="display:inline;" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap (v2 - v5)" />
     <img style="display:inline;" src="https://skillicons.dev/icons?i=html" />
