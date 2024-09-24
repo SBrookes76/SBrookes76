@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a passionate software developer from the UK
+## Hi there 👋 I'm a software developer from the UK
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sbrookes76.sbrookes76" />
 
@@ -6,14 +6,14 @@
  
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 
-![skill:git](https://go-skill-icons.vercel.app/api/icons?i=git&theme=light&titles=true "git version control")
-![skill:github](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light&titles=true "github")
-![skill:bitbucket](https://go-skill-icons.vercel.app/api/icons?i=bitbucket&theme=light&titles=true "bitbucket")
-![skill:vscode](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=light&titles=true "Visual studio Code")
+![skill:git](https://go-skill-icons.vercel.app/api/icons?i=git&theme=light&titles=true "Git version control")
+![skill:github](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light&titles=true "Github cloud DVCS")
+![skill:bitbucket](https://go-skill-icons.vercel.app/api/icons?i=bitbucket&theme=light&titles=true "Bitbucket cloud DVCS")
+![skill:vscode](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=light&titles=true "Visual Studio Code")
 ![skill:html](https://go-skill-icons.vercel.app/api/icons?i=html&theme=light&titles=true "HTML")
 ![skill:css](https://go-skill-icons.vercel.app/api/icons?i=css&theme=light&titles=true "CSS")
-![skill:jira](https://go-skill-icons.vercel.app/api/icons?i=jira&theme=light&titles=true "Jira (Atlassian Project Management")
-![skill:nodejs](https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=light&titles=true "nodejs")
+![skill:jira](https://go-skill-icons.vercel.app/api/icons?i=jira&theme=light&titles=true "Jira - Atlassian Project Management")
+![skill:nodejs](https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=light&titles=true "Nodejs - JS rutnime")
 ![skill:php](https://go-skill-icons.vercel.app/api/icons?i=php&theme=light&titles=true "PHP")
 ![skill:javascript](https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=light&titles=true "JS")
 ![skill:laravel](https://go-skill-icons.vercel.app/api/icons?i=laravel&theme=light&titles=true "Laravel - PHP framework")
@@ -24,41 +24,41 @@
 ![skill:postman](https://go-skill-icons.vercel.app/api/icons?i=postman&theme=light&titles=true "Postman - API design/document/test")
 ![skill:picocss](https://go-skill-icons.vercel.app/api/icons?i=picocss&theme=light&titles=true "PicoCSS - Minimal css framework")
 ![skill:debian](https://go-skill-icons.vercel.app/api/icons?i=debian&theme=light&titles=true "Debian - Linux distro")
-![skill:mjml](https://go-skill-icons.vercel.app/api/icons?i=mjml&theme=light&titles=true "mjml")
-![skill:htmx](https://go-skill-icons.vercel.app/api/icons?i=htmx&theme=light&titles=true "htmx")
+![skill:mjml](https://go-skill-icons.vercel.app/api/icons?i=mjml&theme=light&titles=true "MJML - Email markup")
+![skill:htmx](https://go-skill-icons.vercel.app/api/icons?i=htmx&theme=light&titles=true "Htmx- HTML Extended")
 ![skill:delphi](https://github.com/SBrookes76/SBrookes76/blob/main/delphi.svg "Delphi - Borland/CodeGear/Embarcadero/Idera IDE and language based on Pascal")
 ![skill:api](https://go-skill-icons.vercel.app/api/icons?i=api&theme=light&titles=true "API")
-![skill:jquery](https://go-skill-icons.vercel.app/api/icons?i=jquery&theme=light&titles=true "jquery")
-![skill:sass](https://go-skill-icons.vercel.app/api/icons?i=sass&theme=light&titles=true "Sass")
-![skill:json](https://github.com/SBrookes76/SBrookes76/blob/main/json.svg "Json - JavaScript Object Notation")
-![skill:expo](https://go-skill-icons.vercel.app/api/icons?i=expo&theme=light&titles=true "expo")
-![skill:expressjs](https://go-skill-icons.vercel.app/api/icons?i=expressjs&theme=light&titles=true "expressjs")
-![skill:sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light&titles=true "sqlserver")
-![skill:chartjs](https://go-skill-icons.vercel.app/api/icons?i=chartjs&theme=light&titles=true "chartjs")
+![skill:jquery](https://go-skill-icons.vercel.app/api/icons?i=jquery&theme=light&titles=true "jQuery")
+![skill:sass](https://go-skill-icons.vercel.app/api/icons?i=sass&theme=light&titles=true "Sass - CSS Pre-Processor")
+![skill:json](https://github.com/SBrookes76/SBrookes76/blob/main/json.svg "JSON - JavaScript Object Notation")
+![skill:expo](https://go-skill-icons.vercel.app/api/icons?i=expo&theme=light&titles=true "Expo")
+![skill:expressjs](https://go-skill-icons.vercel.app/api/icons?i=expressjs&theme=light&titles=true "Expressjs - JS back-end framework")
+![skill:sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light&titles=true "SQL Server - Microsoft Database")
+![skill:chartjs](https://go-skill-icons.vercel.app/api/icons?i=chartjs&theme=light&titles=true "Chart.js - JS charting")
 ![skill:svn](https://go-skill-icons.vercel.app/api/icons?i=svn&theme=light&titles=true "SVN - old-school version control")
 ![skill:hg](https://github.com/SBrookes76/SBrookes76/blob/main/mercurial.svg "Mercurial (hg) version control")
-![skill:chatgpt](https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=light&titles=true "chatgpt")
+![skill:chatgpt](https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=light&titles=true "ChatGPT - dumb AI")
 ![skill:gitkraken](https://go-skill-icons.vercel.app/api/icons?i=gitkraken&theme=light&titles=true "GitKraken - Git GUI")
-![skill:markdown](https://go-skill-icons.vercel.app/api/icons?i=markdown&theme=light&titles=true "markdown")
+![skill:markdown](https://go-skill-icons.vercel.app/api/icons?i=markdown&theme=light&titles=true "Markdown")
 ![skill:composer](https://go-skill-icons.vercel.app/api/icons?i=composer&theme=light&titles=true "Composer - PHP package management")
 ![skill:sourcetree](https://github.com/SBrookes76/SBrookes76/blob/main/sourcetree.svg "Sourcetree - Atlassian VCS GUI")
 ![skill:npm](https://go-skill-icons.vercel.app/api/icons?i=npm&theme=light&titles=true "NPM - Node Package Manager")
-![skill:svg](https://go-skill-icons.vercel.app/api/icons?i=svg&theme=light&titles=true "svg")
-![skill:yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&theme=light&titles=true "yarn")
+![skill:svg](https://go-skill-icons.vercel.app/api/icons?i=svg&theme=light&titles=true "SVG - Vector Graphics Format")
+![skill:yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&theme=light&titles=true "Yarn - NPM alternative")
 
 ---
 
 ## ⚒️ Interested-Curious ⚒️
 
-![skill:docker](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light&titles=true "docker")
-![skill:golang](https://go-skill-icons.vercel.app/api/icons?i=golang&theme=light&titles=true "golang")
-![skill:bash](https://go-skill-icons.vercel.app/api/icons?i=bash&theme=light&titles=true "bash")
-![skill:zig](https://go-skill-icons.vercel.app/api/icons?i=zig&theme=light&titles=true "zig")
-![skill:fastapi](https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=light&titles=true "fastapi")
-![skill:podman](https://go-skill-icons.vercel.app/api/icons?i=podman&theme=light&titles=true "podman")
-![skill:astro](https://go-skill-icons.vercel.app/api/icons?i=astro&theme=light&titles=true "astro")
-![skill:gleam](https://go-skill-icons.vercel.app/api/icons?i=gleam&theme=light&titles=true "gleam")
-![skill:bun](https://go-skill-icons.vercel.app/api/icons?i=bun&theme=light&titles=true "bun")
+![skill:docker](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light&titles=true "Docker - Containerisation")
+![skill:golang](https://go-skill-icons.vercel.app/api/icons?i=golang&theme=light&titles=true "Golang- friendly language")
+![skill:bash](https://go-skill-icons.vercel.app/api/icons?i=bash&theme=light&titles=true "Bash - Linux scripting")
+![skill:zig](https://go-skill-icons.vercel.app/api/icons?i=zig&theme=light&titles=true "Zig - high-performance language")
+![skill:fastapi](https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=light&titles=true "FastAPI")
+![skill:podman](https://go-skill-icons.vercel.app/api/icons?i=podman&theme=light&titles=true "Podman")
+![skill:astro](https://go-skill-icons.vercel.app/api/icons?i=astro&theme=light&titles=true "Astro - Web Framework")
+![skill:gleam](https://go-skill-icons.vercel.app/api/icons?i=gleam&theme=light&titles=true "Gleam - Zig Web Framework")
+![skill:bun](https://go-skill-icons.vercel.app/api/icons?i=bun&theme=light&titles=true "Bun - Node alternative")
 
 <!--
 
