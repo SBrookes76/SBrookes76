@@ -59,7 +59,7 @@
 ![skill:astro](https://go-skill-icons.vercel.app/api/icons?i=astro&theme=light&titles=true "Astro - Web Framework")
 ![skill:gleam](https://go-skill-icons.vercel.app/api/icons?i=gleam&theme=light&titles=true "Gleam - Zig Web Framework")
 ![skill:bun](https://go-skill-icons.vercel.app/api/icons?i=bun&theme=light&titles=true "Bun - Node alternative")
-![skill:pwa](https://go-skill-icons.vercel.app/api/icons?i=pwa&theme=light&titles=true "PWA - Progressive Web Apps")
+![skill:pwa](https://github.com/SBrookes76/SBrookes76/blob/main/pwa.svg "PWA - Progressive Web Apps")
 
 <!--
 
