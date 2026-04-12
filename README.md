@@ -26,23 +26,22 @@
 ![skill:debian](https://go-skill-icons.vercel.app/api/icons?i=debian&theme=light&titles=true "Debian - Linux distro")
 ![skill:mjml](https://go-skill-icons.vercel.app/api/icons?i=mjml&theme=light&titles=true "MJML - Email markup")
 ![skill:htmx](https://go-skill-icons.vercel.app/api/icons?i=htmx&theme=light&titles=true "Htmx- HTML Extended")
-![Delphi](https://simpleicons.org/icons/delphi.svg "Delphi - Borland/CodeGear/Embarcadero/Idera IDE and language based on Pascal")
-<img src="https://cdn.simpleicons.org/delphi" height="48">
+<img src="https://cdn.simpleicons.org/delphi" height="48" title="Delphi - IDE and language based on Pascal" />
 ![skill:api](https://go-skill-icons.vercel.app/api/icons?i=api&theme=light&titles=true "API")
 ![skill:jquery](https://go-skill-icons.vercel.app/api/icons?i=jquery&theme=light&titles=true "jQuery")
 ![skill:sass](https://go-skill-icons.vercel.app/api/icons?i=sass&theme=light&titles=true "Sass - CSS Pre-Processor")
-![skilljson](https://go-skill-icons.vercel.app/api/icons?i=json&theme=light&titles=true "JSON - JavaScript Object Notation")
+<img src="https://cdn.simpleicons.org/json" height="48" title="JavaScript Object Notation" />
 ![skill:expo](https://go-skill-icons.vercel.app/api/icons?i=expo&theme=light&titles=true "Expo")
 ![skill:expressjs](https://go-skill-icons.vercel.app/api/icons?i=expressjs&theme=light&titles=true "Expressjs - JS back-end framework")
 ![skill:sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light&titles=true "SQL Server - Microsoft Database")
 ![skill:chartjs](https://go-skill-icons.vercel.app/api/icons?i=chartjs&theme=light&titles=true "Chart.js - JS charting")
 ![skill:svn](https://go-skill-icons.vercel.app/api/icons?i=svn&theme=light&titles=true "SVN - old-school version control")
-![skill:hg](https://go-skill-icons.vercel.app/api/icons?i=mercurial&theme=light&titles=true "Mercurial (hg) version control")
+<img src="https://cdn.simpleicons.org/mercurial" height="48" title="Mercurial (hg) DVCS" />
 ![skill:chatgpt](https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=light&titles=true "ChatGPT - dumb AI")
 ![skill:gitkraken](https://go-skill-icons.vercel.app/api/icons?i=gitkraken&theme=light&titles=true "GitKraken - Git GUI")
 ![skill:markdown](https://go-skill-icons.vercel.app/api/icons?i=markdown&theme=light&titles=true "Markdown")
 ![skill:composer](https://go-skill-icons.vercel.app/api/icons?i=composer&theme=light&titles=true "Composer - PHP package management")
-![skill:sourcetree](https://go-skill-icons.vercel.app/api/icons?i=sourcetree&theme=light&titles=true "Sourcetree - Atlassian VCS GUI")
+<img src="https://cdn.simpleicons.org/sourcetree" height="48" title="Atlassian DVCS GUI" />
 ![skill:npm](https://go-skill-icons.vercel.app/api/icons?i=npm&theme=light&titles=true "NPM - Node Package Manager")
 ![skill:svg](https://go-skill-icons.vercel.app/api/icons?i=svg&theme=light&titles=true "SVG - Vector Graphics Format")
 ![skill:yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&theme=light&titles=true "Yarn - NPM alternative")
