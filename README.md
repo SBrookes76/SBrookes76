@@ -30,7 +30,7 @@
 ![skill:api](https://go-skill-icons.vercel.app/api/icons?i=api&theme=light&titles=true "API")
 ![skill:jquery](https://go-skill-icons.vercel.app/api/icons?i=jquery&theme=light&titles=true "jQuery")
 ![skill:sass](https://go-skill-icons.vercel.app/api/icons?i=sass&theme=light&titles=true "Sass - CSS Pre-Processor")
-![skill:json](go-skill-icons.vercel.app/api/icons?i=json&theme=light&titles=true "JSON - JavaScript Object Notation")
+![skilljson](https://go-skill-icons.vercel.app/api/icons?i=json&theme=light&titles=true "JSON - JavaScript Object Notation")
 ![skill:expo](https://go-skill-icons.vercel.app/api/icons?i=expo&theme=light&titles=true "Expo")
 ![skill:expressjs](https://go-skill-icons.vercel.app/api/icons?i=expressjs&theme=light&titles=true "Expressjs - JS back-end framework")
 ![skill:sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light&titles=true "SQL Server - Microsoft Database")
