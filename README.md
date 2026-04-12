@@ -30,7 +30,7 @@
 ![skill:api](https://go-skill-icons.vercel.app/api/icons?i=api&theme=light&titles=true "API")
 ![skill:jquery](https://go-skill-icons.vercel.app/api/icons?i=jquery&theme=light&titles=true "jQuery")
 ![skill:sass](https://go-skill-icons.vercel.app/api/icons?i=sass&theme=light&titles=true "Sass - CSS Pre-Processor")
-![skill:json](https://github.com/SBrookes76/SBrookes76/blob/main/json.svg "JSON - JavaScript Object Notation")
+![skill:json](go-skill-icons.vercel.app/api/icons?i=json&theme=light&titles=true "JSON - JavaScript Object Notation")
 ![skill:expo](https://go-skill-icons.vercel.app/api/icons?i=expo&theme=light&titles=true "Expo")
 ![skill:expressjs](https://go-skill-icons.vercel.app/api/icons?i=expressjs&theme=light&titles=true "Expressjs - JS back-end framework")
 ![skill:sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light&titles=true "SQL Server - Microsoft Database")
@@ -45,6 +45,7 @@
 ![skill:npm](https://go-skill-icons.vercel.app/api/icons?i=npm&theme=light&titles=true "NPM - Node Package Manager")
 ![skill:svg](https://go-skill-icons.vercel.app/api/icons?i=svg&theme=light&titles=true "SVG - Vector Graphics Format")
 ![skill:yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&theme=light&titles=true "Yarn - NPM alternative")
+![skill:bash](https://go-skill-icons.vercel.app/api/icons?i=bash&theme=light&titles=true "Bash - Linux scripting")
 
 ---
 
@@ -52,7 +53,6 @@
 
 ![skill:docker](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light&titles=true "Docker - Containerisation")
 ![skill:golang](https://go-skill-icons.vercel.app/api/icons?i=golang&theme=light&titles=true "Golang- friendly language")
-![skill:bash](https://go-skill-icons.vercel.app/api/icons?i=bash&theme=light&titles=true "Bash - Linux scripting")
 ![skill:zig](https://go-skill-icons.vercel.app/api/icons?i=zig&theme=light&titles=true "Zig - high-performance language")
 ![skill:fastapi](https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=light&titles=true "FastAPI")
 ![skill:podman](https://go-skill-icons.vercel.app/api/icons?i=podman&theme=light&titles=true "Podman")
