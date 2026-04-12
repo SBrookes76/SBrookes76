@@ -26,7 +26,7 @@
 ![skill:debian](https://go-skill-icons.vercel.app/api/icons?i=debian&theme=light&titles=true "Debian - Linux distro")
 ![skill:mjml](https://go-skill-icons.vercel.app/api/icons?i=mjml&theme=light&titles=true "MJML - Email markup")
 ![skill:htmx](https://go-skill-icons.vercel.app/api/icons?i=htmx&theme=light&titles=true "Htmx- HTML Extended")
-![skill:delphi](https://go-skill-icons.vercel.app/api/icons?i=delphi&theme=light&titles=true "Delphi - Borland/CodeGear/Embarcadero/Idera IDE and language based on Pascal")
+![Delphi](https://simpleicons.org/icons/delphi.svg "Delphi - Borland/CodeGear/Embarcadero/Idera IDE and language based on Pascal")
 ![skill:api](https://go-skill-icons.vercel.app/api/icons?i=api&theme=light&titles=true "API")
 ![skill:jquery](https://go-skill-icons.vercel.app/api/icons?i=jquery&theme=light&titles=true "jQuery")
 ![skill:sass](https://go-skill-icons.vercel.app/api/icons?i=sass&theme=light&titles=true "Sass - CSS Pre-Processor")
