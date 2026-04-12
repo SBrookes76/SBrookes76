@@ -46,6 +46,7 @@
 ![skill:svg](https://go-skill-icons.vercel.app/api/icons?i=svg&theme=light&titles=true "SVG - Vector Graphics Format")
 ![skill:yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn&theme=light&titles=true "Yarn - NPM alternative")
 ![skill:bash](https://go-skill-icons.vercel.app/api/icons?i=bash&theme=light&titles=true "Bash - Linux scripting")
+<img src="https://cdn.simpleicons.org/digitalocean" height="48" title="Worldwide hosting service" />
 
 ---
 
