@@ -10,9 +10,7 @@
 <img src="https://cdn.simpleicons.org/github" height="48" title="Microsoft Cloud Hosted Git" />
 <img src="https://cdn.simpleicons.org/bitbucket" height="48" title="Atlassian Cloud Hosted Git" />
 ![skill:vscode](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=light&titles=true "Visual Studio Code")
-![skill:html](https://go-skill-icons.vercel.app/api/icons?i=html&theme=light&titles=true "HTML")
 <img src="https://cdn.simpleicons.org/html" height="48" title="Hyper Text Markup Language" />
-![skill:css](https://go-skill-icons.vercel.app/api/icons?i=css&theme=light&titles=true "CSS")
 <img src="https://cdn.simpleicons.org/css" height="48" title="Cascading Style Sheets" />
 ![skill:jira](https://go-skill-icons.vercel.app/api/icons?i=jira&theme=light&titles=true "Jira - Atlassian Project Management")
 <img src="https://cdn.simpleicons.org/jira" height="48" title="Jira - Atlassian Project Management" />
