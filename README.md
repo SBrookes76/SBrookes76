@@ -6,9 +6,9 @@
  
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 
-<img src="https://cdn.simpleicons.org/git" height="48" title="DVCS" />
-<img src="https://cdn.simpleicons.org/github" height="48" title="Microsoft Cloud Hosted Git" />
-<img src="https://cdn.simpleicons.org/bitbucket" height="48" title="Atlassian Cloud Hosted Git" />
+<img src="https://cdn.simpleicons.org/git" height="48" style="display:inline-block" title="DVCS" />
+<img src="https://cdn.simpleicons.org/github" height="48" style="display:inline-block" title="Microsoft Cloud Hosted Git" />
+<img src="https://cdn.simpleicons.org/bitbucket" height="48" style="display:inline-block" title="Atlassian Cloud Hosted Git" />
 ![skill:vscode](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=light&titles=true "Visual Studio Code")
 <img src="https://cdn.simpleicons.org/html" height="48" title="Hyper Text Markup Language" />
 <img src="https://cdn.simpleicons.org/css" height="48" title="Cascading Style Sheets" />
