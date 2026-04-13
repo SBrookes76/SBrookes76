@@ -7,9 +7,13 @@
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 
 ![skill:git](https://go-skill-icons.vercel.app/api/icons?i=git&theme=light&titles=true "Git version control")
+<img src="https://cdn.simpleicons.org/git" height="48" title="DVCS" />
 ![skill:github](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light&titles=true "Github cloud DVCS")
+<img src="https://cdn.simpleicons.org/github" height="48" title="Microsoft Cloud Hosted Git" />
 ![skill:bitbucket](https://go-skill-icons.vercel.app/api/icons?i=bitbucket&theme=light&titles=true "Bitbucket cloud DVCS")
+<img src="https://cdn.simpleicons.org/bitbucket" height="48" title="Atlassian Cloud Hosted Git" />
 ![skill:vscode](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=light&titles=true "Visual Studio Code")
+<img src="https://cdn.simpleicons.org/vscode" height="48" title="Visual Studio Code" />
 ![skill:html](https://go-skill-icons.vercel.app/api/icons?i=html&theme=light&titles=true "HTML")
 ![skill:css](https://go-skill-icons.vercel.app/api/icons?i=css&theme=light&titles=true "CSS")
 ![skill:jira](https://go-skill-icons.vercel.app/api/icons?i=jira&theme=light&titles=true "Jira - Atlassian Project Management")
