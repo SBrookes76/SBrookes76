@@ -13,7 +13,6 @@
 ![skill:vscode](https://go-skill-icons.vercel.app/api/icons?i=html&theme=light&titles=true "Hyper Text Markup Language")
 ![skill:vscode](https://go-skill-icons.vercel.app/api/icons?i=css&theme=light&titles=true "Cascading Style Sheets")
 ![skill:jira](https://go-skill-icons.vercel.app/api/icons?i=jira&theme=light&titles=true "Jira - Atlassian Project Management")
-<img src="https://cdn.simpleicons.org/jira" height="48" title="Jira - Atlassian Project Management" />
 ![skill:nodejs](https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=light&titles=true "Nodejs - JS rutnime")
 ![skill:php](https://go-skill-icons.vercel.app/api/icons?i=php&theme=light&titles=true "PHP")
 ![skill:javascript](https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=light&titles=true "JS")
