@@ -6,12 +6,12 @@
  
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 
-<img src="https://cdn.simpleicons.org/git" height="48" style="display:inline-block" title="DVCS" />
-<img src="https://cdn.simpleicons.org/github" height="48" style="display:inline-block" title="Microsoft Cloud Hosted Git" />
-<img src="https://cdn.simpleicons.org/bitbucket" height="48" style="display:inline-block" title="Atlassian Cloud Hosted Git" />
+![skill:nodejs](https://go-skill-icons.vercel.app/api/icons?i=git&theme=light&titles=true "DVCS")
+![skill:nodejs](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light&titles=true "Microsoft Cloud Hosted Git")
+![skill:nodejs](https://go-skill-icons.vercel.app/api/icons?i=bitbucket&theme=light&titles=true "Atlassian Cloud Hosted Git")
 ![skill:vscode](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=light&titles=true "Visual Studio Code")
-<img src="https://cdn.simpleicons.org/html" height="48" title="Hyper Text Markup Language" />
-<img src="https://cdn.simpleicons.org/css" height="48" title="Cascading Style Sheets" />
+![skill:vscode](https://go-skill-icons.vercel.app/api/icons?i=html&theme=light&titles=true "Hyper Text Markup Language")
+![skill:vscode](https://go-skill-icons.vercel.app/api/icons?i=css&theme=light&titles=true "Cascading Style Sheets")
 ![skill:jira](https://go-skill-icons.vercel.app/api/icons?i=jira&theme=light&titles=true "Jira - Atlassian Project Management")
 <img src="https://cdn.simpleicons.org/jira" height="48" title="Jira - Atlassian Project Management" />
 ![skill:nodejs](https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=light&titles=true "Nodejs - JS rutnime")
