@@ -63,6 +63,8 @@
 ![skill:pwa](https://go-skill-icons.vercel.app/api/icons?i=pwa&theme=light&titles=true "PWA - Progressive Web Apps")
 ![skill:svelte](https://go-skill-icons.vercel.app/api/icons?i=svelte&theme=light&titles=true "Svelte - Front-end Web Framework")
 ![skill:tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=light&titles=true "Tailwind - Utility-First CSS Framework")
+<img src="https://hydephp.com/media/logo.svg" height="48" title="Hyde - PHP SSG" />
+
 
 <!--
 
